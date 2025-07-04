@@ -14,7 +14,7 @@ This is a simple Vite + React based project that displays live cricket scores an
 
 ## 📸 Preview
 
-![Screenshot](./logos_cricket/WebiteSS.png)
+![Screenshot](./public/logos_cricket/WebiteSS.png)
 ![Screenshot](./logos_cricket/WebsiteSS2.png)
 
 
