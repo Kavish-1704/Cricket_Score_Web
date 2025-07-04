@@ -9,7 +9,7 @@ function Card({match,loading,index}) {
             y:-5,
             transition :{duration:0.125},
         }}
-        className="bg-black text-white rounded-2xl shadow-lg p-4 m-19 h-50 w-135 flex flex-col justify-between">
+        className="bg-black text-white rounded-2xl shadow-lg p-4  h-50 w-135 flex flex-col justify-between m-5 sm: md: lg: xl: ">
         
         <div className="flex items-end justify-center h-40">
   <motion.div
@@ -78,7 +78,7 @@ if (matchtype === "test") {
         transition :{duration:0.125},
     }}
     >
-    <div className="bg-black text-white rounded-2xl shadow-lg p-2 h-50 w-135 m-19 flex flex-col justify-between">
+    <div className="bg-black text-white rounded-2xl shadow-lg p-2 h-50 w-135  flex flex-col justify-between  sm:m-5  lg:m-10 xl:m-19 ">
       <div className="flex justify-between items-center">
         <div className="font-bold ">{match.name}</div>
         

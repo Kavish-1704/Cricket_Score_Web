@@ -1,10 +1,9 @@
 import { useCallback, useEffect, useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
-import SlideShow from './components/SlideShow'
+
 import Header from './components/Header'
-import Tempcard from './components/Tempcard'
+
 import Card from './components/Card'
 import {motion} from 'framer-motion'
 import { useRef } from 'react'
@@ -133,7 +132,7 @@ useEffect(() => {
 }, []);
 
   return ( 
-    <div className=' bg-cover bg-center min-h-screen' style={{ backgroundImage: "url('/logos_cricket/Lords_cricket.webp')"}}>
+    <div className=' bg-cover bg-center ' style={{ backgroundImage: "url('/logos_cricket/Lords_cricket.webp"}}>
       <Header />
       <div className="relative px-4 mt-4">
         
