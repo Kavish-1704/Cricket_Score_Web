@@ -55,8 +55,9 @@ npm install
 ```bash
 npm run dev
 ```
-
-# Author
+## Upcoming updates
+- Responsive layout across all the devices is currently under development and will be soon released
+## Author
 
 - Kavish Sharma
 - Email : [Email me](mailto:kavishsharma5656@gmail.com)
