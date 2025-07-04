@@ -8,14 +8,14 @@ This is a simple Vite + React based project that displays live cricket scores an
 
 ## 🚀 Demo
 
-[Live Site](cricket-score-web.vercel.app)
+[Live Website](https://cricket-score-web.vercel.app)
 
 ---
 
 ## 📸 Preview
 
 ![Screenshot](./public/logos_cricket/WebiteSS.png)
-![Screenshot](./logos_cricket/WebsiteSS2.png)
+![Screenshot](./public/logos_cricket/WebsiteSS2.png)
 
 
 ---
